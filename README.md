@@ -2,7 +2,7 @@
 ---
 
 ## Frontend Developer
----
+
 
 I am a beginner Frontend Developer. I have been studying Frontend Development for over a year now, constantly expanding my knowledge and skills in this field. Currently, I am working on developing a chat application using React. I have a strong desire to join a team as a junior developer.I am eager to take on new challenges and grow as a professional.
 
