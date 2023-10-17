@@ -8,7 +8,7 @@ I am a beginner Frontend Developer. I have been studying Frontend Development fo
 * 🌍 I'm based in Lithuania,Vilnius
 * ⚡ finishing Xeklet school.
 * ⚡ finished code academy school.
-* 💬 You can contact me at: [![Telegram Badge](https://img.shields.io/badge/-sutovicjekaterina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/+37067954922) [![Gmail Badge](https://img.shields.io/badge/-sutovicjekaterina-red?style=flat&logo=Gmail&logoColor=white)](sutovic.jekaterina@gmail.com)  
+* 💬 You can contact me at: [![Telegram Badge](https://img.shields.io/badge/-sutovicjekaterina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/+37067954922) [![Gmail Badge](https://img.shields.io/badge/-sutovic.jekaterina@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](sutovic.jekaterina@gmail.com)  
 
 
 ---
